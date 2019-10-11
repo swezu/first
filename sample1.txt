@@ -4,4 +4,4 @@ karnataka
 this is devops practice
 latst modification
 devops
-
+git is an learning
