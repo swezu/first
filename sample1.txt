@@ -1,8 +1,0 @@
-this is git sample
-banglore
-karnataka 
-this is devops practice
-latst modification
-devops
-banglore
-
